@@ -1,0 +1,6 @@
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.Operation\bin\Debug\TDD.Operation.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.Operation\bin\Debug\TDD.Operation.pdb
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.Operation\obj\Debug\TDD.Operation.csprojAssemblyReference.cache
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.Operation\obj\Debug\TDD.Operation.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.Operation\obj\Debug\TDD.Operation.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.Operation\obj\Debug\TDD.Operation.pdb

@@ -1,0 +1,16 @@
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\TDD.UnitTest.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\TDD.UnitTest.pdb
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\obj\Debug\TDD.UnitTest.csprojAssemblyReference.cache
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\obj\Debug\TDD.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\obj\Debug\TDD.UnitTest.csproj.CopyComplete
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\obj\Debug\TDD.UnitTest.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\obj\Debug\TDD.UnitTest.pdb
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\TDD.Operation.dll
+C:\Users\MEHMTEKE\Source\Repos\TDD.Operation\TDD.UnitTest\bin\Debug\TDD.Operation.pdb
